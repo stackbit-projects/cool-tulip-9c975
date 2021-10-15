@@ -25,10 +25,9 @@ sections:
         content: |
           We charge $15 + postage. 
       - title: Can I ship anything?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          We currently only ship items 70 lbs or less. We abide by all shipping
+          restrictions set forth by USPS.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
