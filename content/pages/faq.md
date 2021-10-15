@@ -10,10 +10,9 @@ sections:
   - type: grid_section
     grid_items:
       - title: What areas do you offer service in?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We are currently operating in San Francisco, CA only. To be notified
+          when we begin operating service in your city, click here.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
