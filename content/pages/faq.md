@@ -17,7 +17,7 @@ sections:
         content: >
           We provide everything to ship your item from box, packaging materials,
           tape and label.
-      - title: Viverra nam libero justo laoreet sit?
+      - title: What services do you ship with?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
