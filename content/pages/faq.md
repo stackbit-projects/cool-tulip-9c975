@@ -14,10 +14,9 @@ sections:
           We are currently operating in San Francisco, CA only. To be notified
           when we begin operating service in your city, click here.
       - title: Do you really supply everything?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We provide everything to ship your item from box, packaging materials,
+          tape and label.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
