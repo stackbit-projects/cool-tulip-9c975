@@ -5,7 +5,7 @@ sections:
     title: Shipping now from your doorstep.
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Ship Package
         url: /pricing
         style: primary
     image: images/hero.svg
