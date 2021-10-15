@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shipping now from your doorstep.
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Box, bubble wrap, tape and label included.'
     actions:
       - label: Ship Package
         url: /pricing
