@@ -13,7 +13,7 @@ sections:
         content: >
           We are currently operating in San Francisco, CA only. To be notified
           when we begin operating service in your city, click here.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Do you really supply everything?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
