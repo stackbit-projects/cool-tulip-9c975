@@ -21,7 +21,7 @@ sections:
         content: >
           We offer shipping via United States Postal Services (USPS) and United
           Parcel Service (UPS).
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: What is your pricing?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
