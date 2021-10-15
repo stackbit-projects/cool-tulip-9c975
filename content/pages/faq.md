@@ -31,8 +31,6 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
