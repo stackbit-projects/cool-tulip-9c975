@@ -21,7 +21,7 @@ sections:
         content: >
           We offer shipping via United States Postal Services (USPS) and United
           Parcel Service (UPS).
-      - title: What is your pricing?
+      - title: What do you charge?
         content: |
           We charge $15 + postage. 
       - title: Can I ship anything?
