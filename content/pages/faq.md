@@ -24,7 +24,7 @@ sections:
       - title: What is your pricing?
         content: |
           We charge $15 + postage. 
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Can I ship anything?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
