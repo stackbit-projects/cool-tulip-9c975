@@ -54,9 +54,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Save Time
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          Worry Free Gurantee. If your package is lost or damaged, we will
+          reimburse you for the declared value of the package, service fee and
+          postage.
         actions:
           - label: Learn More
             url: /thank-you
