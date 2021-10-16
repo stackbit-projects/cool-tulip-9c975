@@ -42,9 +42,10 @@ sections:
     title: Why Choose SF Shipping?
     features:
       - title: Ship anything with just your phone
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          From setting up your pick-up to filling out addresses and payment, SF
+          Shipping allows a phone only shipping experience. We are 100%
+          paperless and provide all receipts, tracking information via e-mail.
         actions:
           - label: Learn More
             url: /thank-you
