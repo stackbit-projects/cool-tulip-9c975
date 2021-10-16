@@ -112,10 +112,8 @@ sections:
         image_has_padding: true
       - title: '#3 Package Drop-off'
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Your package will be dropped off at mailing access point.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
