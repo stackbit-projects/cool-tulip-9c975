@@ -4,17 +4,18 @@ sections:
   - section_id: lorem-ipsum
     title: Pricing
     subtitle: Updated 11/1/21
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Service Fee: $15.00
 
+      Our service fee includes:
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Doorside Pick-Up
 
+      *   Box
 
-      - Lorem ipsum
+      *   Packaging Materails
 
-      - dolor sit amet
+      *   Tape
     actions: []
     image_alt: lorem-ipsum
     media_position: top
