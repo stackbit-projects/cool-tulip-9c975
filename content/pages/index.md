@@ -110,16 +110,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: '#3 Package Drop-off'
-        title_align: left
-        content: |
-          Your package will be dropped off at mailing access point.
-        content_align: left
-        image: images/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
       - title: '#4 Track Your Package'
         title_align: left
         content: >
