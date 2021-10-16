@@ -101,8 +101,9 @@ sections:
       - title: '#2 Answer Door'
         title_align: left
         content: >
-          Our shipping expert will arrive on time and necessary supplies. After
-          confirming your item's dimension and weight, you're all set.
+          Our shipping expert will arrive on time and with all necessary
+          supplies. After confirming your item's dimension and weight, you're
+          all set.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
