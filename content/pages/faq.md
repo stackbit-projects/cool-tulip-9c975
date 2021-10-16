@@ -51,7 +51,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        subtitle: f
+        subtitle: >-
+          If your package is lost or damaged in transit, we will reimburse you
+          for the declared value and the postage paid.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
