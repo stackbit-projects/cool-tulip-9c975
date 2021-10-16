@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Pricing
-    subtitle: lorem-ipsum
+    subtitle: U
     content: >-
       ## Lorem ipsum
 
