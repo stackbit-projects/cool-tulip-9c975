@@ -87,7 +87,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: What to Do
+      - title: '#1 Tell Us What You''re Shipping'
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
