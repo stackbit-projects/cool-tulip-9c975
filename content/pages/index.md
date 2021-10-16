@@ -100,9 +100,9 @@ sections:
         image_has_padding: true
       - title: '#2 Answer Door'
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Our shipping expert will arrive on time and necessary supplies. After
+          confirming your item's dimension and weight, you're all set.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
