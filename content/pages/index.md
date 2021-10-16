@@ -148,7 +148,7 @@ sections:
     content: |
       Ship any thing today!
     actions:
-      - label: Try for free
+      - label: Ship
         url: /thank-you
         style: primary
     actions_width: fourty
