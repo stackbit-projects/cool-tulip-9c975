@@ -110,7 +110,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: '#3'
+      - title: '#3 Package Drop-off'
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
