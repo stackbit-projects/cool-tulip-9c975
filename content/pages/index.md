@@ -75,8 +75,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
+          “Shipping used to require spending 45 min going to the postal office
+          but now it takes 5 min .”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
