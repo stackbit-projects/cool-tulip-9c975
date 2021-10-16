@@ -110,7 +110,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: '#4 Track Your Package'
+      - title: '#3 Track Your Package'
         title_align: left
         content: >
           We offer robust notification system to inform you of your package's
