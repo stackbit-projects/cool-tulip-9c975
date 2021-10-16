@@ -145,7 +145,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Ready to get started?
-    content: Start achieving your goals today!
+    content: |
+      Ship any thing today!
     actions:
       - label: Try for free
         url: /thank-you
