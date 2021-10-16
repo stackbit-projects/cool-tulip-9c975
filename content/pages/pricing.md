@@ -3,7 +3,6 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Pricing
-    subtitle: Updated 11/1/21
     content: |
       Service Fee: $15.00
 
