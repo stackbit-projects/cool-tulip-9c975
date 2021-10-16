@@ -89,10 +89,9 @@ sections:
     grid_items:
       - title: '#1 Setup Pick-Up'
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          Just tell us what you're shipping, the delivery address and your
+          address. We'll take care of the rest.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
