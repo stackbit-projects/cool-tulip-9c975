@@ -146,7 +146,7 @@ sections:
   - type: cta_section
     title: Ready to get started?
     content: |
-      Ship any thing today!
+      Ship anything today!
     actions:
       - label: Ship
         url: /thank-you
