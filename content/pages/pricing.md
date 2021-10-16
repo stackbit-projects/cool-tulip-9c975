@@ -3,18 +3,30 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Pricing
-    content: |
+    content: >
       Service Fee: $15.00
+
 
       Our service fee includes:
 
+
       *   Doorside Pick-Up
+
 
       *   Box
 
+
       *   Packaging Materails
 
+
       *   Tape
+
+
+      Postage
+
+
+      Postage is determined by package weight, dimensions, destination and
+      service speed.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
