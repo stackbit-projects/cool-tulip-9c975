@@ -57,10 +57,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: No B.Y.O.B.
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          We don't believe you should have to bring your own box or any other
+          shipping supplies. That's why we provide everything you need to ship
+          from your doorstep.
         actions:
           - label: Learn More
             url: /thank-you
