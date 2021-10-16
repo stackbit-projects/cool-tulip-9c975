@@ -18,6 +18,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
+    image: /images/undraw_Delivery_address_re_cjca.svg
   - type: grid_section
     title: Featured On
     align: center
