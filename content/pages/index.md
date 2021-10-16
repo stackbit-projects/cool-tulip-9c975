@@ -25,7 +25,7 @@ sections:
       - title: Ship anything with just your phone
         content: >
           From setting up your pick-up to filling out addresses and payment, SF
-          Shipping allows a phone only shipping experience. We are 100%
+          Shipping enables a phone only shipping experience. We are 100%
           paperless and provide all receipts, tracking information via e-mail.
         actions:
           - label: Learn More
