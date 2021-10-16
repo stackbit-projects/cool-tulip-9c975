@@ -28,7 +28,7 @@ sections:
         content: >
           We currently only ship items 70 lbs or less. We abide by all shipping
           restrictions set forth by USPS.
-      - title: lorem-ipsum
+      - title: What payment methods do you accept?
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
