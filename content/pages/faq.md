@@ -29,7 +29,7 @@ sections:
           We currently only ship items 70 lbs or less. We abide by all shipping
           restrictions set forth by USPS.
       - title: What payment methods do you accept?
-        subtitle: lorem-ipsum
+        subtitle: 'We accept all credit cards, debit cards and mobile payments.'
         title_align: left
         content_align: left
         actions: []
