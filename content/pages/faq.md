@@ -41,7 +41,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Do you offer any gurantees?
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
