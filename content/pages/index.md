@@ -87,7 +87,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: '#1 Tell Us What You''re Shipping'
+      - title: '#1 Setup Pick-Up'
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
