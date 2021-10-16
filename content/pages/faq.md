@@ -23,7 +23,7 @@ sections:
           Parcel Service (UPS).
       - title: What do you charge?
         content: |
-          We charge $15 + postage. 
+          Please check our pricing page.
       - title: Can I ship anything?
         content: >
           We currently only ship items 70 lbs or less. We abide by all shipping
