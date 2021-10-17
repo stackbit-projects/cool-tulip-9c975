@@ -25,8 +25,8 @@ sections:
       # Postage
 
 
-      Postage is determined by package weight, dimensions, destination and
-      service speed.
+      Postage is determined by carrier, package weight, dimensions, destination
+      and service speed.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
