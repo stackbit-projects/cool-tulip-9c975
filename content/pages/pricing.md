@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Pricing
 sections:
   - section_id: lorem-ipsum
     title: Pricing
