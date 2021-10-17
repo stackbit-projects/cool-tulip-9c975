@@ -22,7 +22,7 @@ sections:
       *   Tape
 
 
-      Postage
+      # Postage
 
 
       Postage is determined by package weight, dimensions, destination and
