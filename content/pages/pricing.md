@@ -74,7 +74,7 @@ sections:
         image_has_padding: false
         title: Packaging
         subtitle: Box/envelope and tape.
-      - title: lorem-ipsum
+      - title: Additional Materials
         subtitle: lorem-ipsum
         title_align: left
         content: >-
