@@ -53,9 +53,9 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## $5
+          ## $10
 
-          66% lower than our competitors such as the UPS Store.
+          33% lower than our competitors such as the UPS Store.
         content_align: left
         actions: []
         actions_align: left
