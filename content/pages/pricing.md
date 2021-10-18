@@ -71,14 +71,13 @@ sections:
       - title: Additional Insurance
         subtitle: Recommended for high-value packages.
         title_align: left
-        content: >+
-          ## $2 per $100 of coverage
+        content: >
+          ## $2\*
 
 
           All postage purchased from us carries $100 standard shipping
           insurance. For additional insurance, we charge $2.00 for every $100 of
           declared value.
-
         content_align: left
         actions: []
         actions_align: left
