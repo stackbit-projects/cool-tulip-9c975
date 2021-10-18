@@ -77,7 +77,7 @@ sections:
 
           All postage purchased from us carries $100 standard shipping
           insurance. For additional insurance, we charge $2.00 for every $100 of
-          declared value.
+          declared value over $100.
         content_align: left
         actions: []
         actions_align: left
