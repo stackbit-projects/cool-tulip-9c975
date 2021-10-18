@@ -1,8 +1,6 @@
 ---
 title: SF Shipping Service Commencement
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: Service launch.
 date: '2020-11-04'
 author: content/data/team/dianne-ameter.yaml
 categories:
