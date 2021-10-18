@@ -68,25 +68,6 @@ sections:
         image_has_padding: false
         title: Packaging
         subtitle: 'Box/envelope, packaging materials and tape.'
-      - title: Additional Insurance
-        subtitle: Recommended for high-value packages.
-        title_align: left
-        content: >
-          ## $2\*
-
-
-          All postage purchased from us carries $100 standard shipping
-          insurance. For additional insurance, we charge $2.00 for every $100 of
-          declared value over $100.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: Postage
         subtitle: Includes $100 of insurance + package tracking .
         title_align: left
@@ -101,6 +82,25 @@ sections:
           *   United States Postal Service (USPS)
 
           *   United Parcel Service (UPS)
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Additional Insurance
+        subtitle: Recommended for high-value packages.
+        title_align: left
+        content: >
+          ## $2\*
+
+
+          All postage purchased from us carries $100 standard shipping
+          insurance. For additional insurance, we charge $2.00 for every $100 of
+          declared value over $100.
         content_align: left
         actions: []
         actions_align: left
