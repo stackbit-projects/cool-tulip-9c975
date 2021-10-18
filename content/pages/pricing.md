@@ -51,7 +51,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
+      - subtitle: Box
         title_align: left
         content: >
           ## $5
