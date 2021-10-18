@@ -25,7 +25,6 @@ sections:
     subtitle: Updated November 2021
   - section_id: Packaging
     title: Pricing
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title_align: left
