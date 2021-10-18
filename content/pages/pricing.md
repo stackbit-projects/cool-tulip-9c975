@@ -90,17 +90,17 @@ sections:
       - title: Postage
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Variable
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Postage costs are determined by carrier, destination and service
+          speed. We currently offer
 
 
-          - Lorem ipsum
+          *   United States Postal Service (USPS)
 
-          - dolor sit amet
+          *   United Parcel Service (UPS)
         content_align: left
         actions: []
         actions_align: left
