@@ -28,7 +28,10 @@ sections:
 
 
       Shipping insurance is included up to $100. For any additional declared
-      value, we charge $1.00 per $100 over $100. 
+      value, we charge $1.00 per $100 over $100.
+
+
+      Postage quote will be provided when setting up appointment.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
