@@ -3,35 +3,11 @@ title: Pricing
 sections:
   - section_id: lorem-ipsum
     title: Pricing
-    content: >
-      Packaging Fee: $5.00
+    content: |+
+      We do not charge any pick-up fees.
 
+      Our pricing is anywhere from 33% to 50% lower than our competitors.
 
-      This includes box/envelope and tape.
-
-
-      Packing Materials: $5.00
-
-
-      For any packages requiring bubble wrap or cushioning materials.
-
-
-      We have a $25 order minimum which includes postage and any other fees. For
-      any order under $25, we charge a $10 convenience fee.
-
-
-      ## Postage
-
-
-      Postage is determined by carrier, package weight, dimensions, destination
-      and service speed.
-
-
-      Shipping insurance is included up to $100. For any additional declared
-      value, we charge $1.00 per $100 over $100.
-
-
-      Postage quote will be provided when setting up appointment.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
