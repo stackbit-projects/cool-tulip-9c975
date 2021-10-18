@@ -52,17 +52,10 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >
+        content: |
           ## $5
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          66% lower than our competitors such as the UPS Store.
         content_align: left
         actions: []
         actions_align: left
