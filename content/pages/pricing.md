@@ -88,7 +88,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Postage
-        subtitle: lorem-ipsum
+        subtitle: Includes $100 of insurance + package tracking .
         title_align: left
         content: >
           ## Variable
