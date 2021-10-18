@@ -7,7 +7,7 @@ sections:
       Packaging Fee: $5.00
 
 
-      This includes box/envelople and tape.
+      This includes box/envelope and tape.
 
 
       Packing Materials: $5.00
@@ -17,7 +17,7 @@ sections:
 
 
       We have a $25 order minimum which includes postage and any other fees. For
-      any order under $25, we charge a $10 convience fee.
+      any order under $25, we charge a $10 convenience fee.
 
 
       ## Postage
