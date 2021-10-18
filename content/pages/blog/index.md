@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Company Blog
-    subtitle: Planning and productivity insights
+    subtitle: Shipping insights.
     align: center
     padding_top: medium
     padding_bottom: none
