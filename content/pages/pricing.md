@@ -75,7 +75,7 @@ sections:
         title: Packaging
         subtitle: Box/envelope and tape.
       - title: Additional Materials
-        subtitle: 'Bubble wrap, air cushions, packin'
+        subtitle: 'Bubble wrap, air cushions, packaging paper.'
         title_align: left
         content: >-
           ## Lorem ipsum
