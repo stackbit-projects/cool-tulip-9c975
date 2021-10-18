@@ -69,7 +69,7 @@ sections:
         title: Packaging
         subtitle: 'Box/envelope, packaging materials and tape.'
       - title: Additional Insurance
-        subtitle: 'Bubble wrap, air cushions, packaging paper.'
+        subtitle: Recommended for high-value packages.
         title_align: left
         content: >+
           ## $2 per $100 of coverage
