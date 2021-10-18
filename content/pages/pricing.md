@@ -73,7 +73,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Packaging
-        subtitle: 'Box, envelop'
+        subtitle: Box
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
