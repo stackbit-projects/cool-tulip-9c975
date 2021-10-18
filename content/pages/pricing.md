@@ -71,17 +71,14 @@ sections:
       - title: Additional Insurance
         subtitle: 'Bubble wrap, air cushions, packaging paper.'
         title_align: left
-        content: >
-          ## $5
+        content: >+
+          ## $2 per $100 of coverage
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          All postage purchased from us carries $100 standard shipping
+          insurance. For additional insurance, we charge $2.00 for every $100 of
+          declared value.
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         content_align: left
         actions: []
         actions_align: left
