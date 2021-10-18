@@ -17,9 +17,7 @@ sections:
 
 
       We have a $25 order minimum which includes postage and any other fees. For
-      any order under $25, we charge a $10 convience fee. 
-
-
+      any order under $25, we charge a $10 convience fee.
 
 
       ## Postage
@@ -29,9 +27,8 @@ sections:
       and service speed.
 
 
-
       Shipping insurance is included up to $100. For any additional declared
-      value, we charge $1.00 per $100 over $100.
+      value, we charge $1.00 per $100 over $100. 
     actions: []
     image_alt: lorem-ipsum
     media_position: top
