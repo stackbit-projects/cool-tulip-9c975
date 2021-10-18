@@ -74,9 +74,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Shipping used to require spending 45 min going to the postal office
-          but now it takes 5 min .”
+      - title: “A modern shipping experience.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
