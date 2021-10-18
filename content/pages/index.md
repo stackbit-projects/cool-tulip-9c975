@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shipping now from your doorstep.
-    subtitle: 'Box, bubble wrap, tape and label included.'
+    subtitle: The easiest way to ship anything.
     actions:
       - label: Ship Package
         url: /pricing
