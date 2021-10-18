@@ -47,7 +47,8 @@
                 "url": "/thank-you",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/SFShipping.png"
     },
     "footer": {
         "logo": "images/logo.svg",
