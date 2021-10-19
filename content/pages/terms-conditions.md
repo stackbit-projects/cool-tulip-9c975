@@ -366,3 +366,5 @@ or the Service following the posting of any changes to these Terms of
 Service constitutes acceptance of those changes.
 
 **SECTION 20 - CONTACT INFORMATION**
+
+For all contact requests, please email us at info@getsfshipping.com
