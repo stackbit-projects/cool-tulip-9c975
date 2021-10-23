@@ -24,8 +24,8 @@ sections:
     features:
       - title: Ship anything with just your phone
         content: >
-          From setting up your pick-up to filling out addresses and payment, SF
-          Shipping enables a phone only shipping experience. 
+          From setting up your pick-up to filling out addresses and payment,
+          ZipShip enables a phone only shipping experience.
         actions:
           - label: Learn More
             url: /thank-you
