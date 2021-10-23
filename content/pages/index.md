@@ -159,7 +159,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: 'ZipShip: Phone only shipping'
+  title: 'ZipShip: Shipping from your door'
   description: >-
     We bring all shipping supplies. Service currently offered in San Francisco
     and Palo Alto only.
