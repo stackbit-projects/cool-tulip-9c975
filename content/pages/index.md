@@ -160,7 +160,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: 'ZipShip: Phone only shipping'
-  description: 'We bring all shipping supplies and '
+  description: >-
+    We bring all shipping supplies. Service offered in San Francisco and Palo
+    Alto only.
   extra:
     - name: 'og:type'
       value: website
