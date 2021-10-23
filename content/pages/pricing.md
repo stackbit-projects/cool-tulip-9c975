@@ -6,9 +6,9 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## $10
+          ## $15
 
-          33% lower than our competitors such as the UPS Store.
+          Additional packages are $5.
         content_align: left
         actions: []
         actions_align: left
