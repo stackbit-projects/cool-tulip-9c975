@@ -19,7 +19,6 @@ sections:
     type: hero_section
     subtitle: Updated November 2021
   - section_id: Packaging
-    title: Pricing
     actions: []
     grid_items:
       - title_align: left
