@@ -160,7 +160,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: ZipShip | Ship anything
-  description: The preview of the Startup theme
+  description: 'We enable '
   extra:
     - name: 'og:type'
       value: website
