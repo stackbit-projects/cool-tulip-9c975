@@ -3,11 +3,6 @@ title: Pricing
 sections:
   - section_id: lorem-ipsum
     title: Pricing
-    content: |+
-      We do not charge any pick-up fees.
-
-      Our pricing is anywhere from 33% to 50% lower than our competitors.
-
     actions: []
     image_alt: lorem-ipsum
     media_position: top
