@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 60
     image: /images/undraw_Delivery_address_re_cjca.svg
   - type: features_section
-    title: Why Choose SF Shipping?
+    title: Why ChooseZipShip?
     features:
       - title: Ship anything with just your phone
         content: >
