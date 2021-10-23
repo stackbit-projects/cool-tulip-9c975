@@ -159,7 +159,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: 'ZipShip: Ship anything from your door'
+  title: 'ZipShip: Ship Anything From Your Door'
   description: 'We enable anyone to ship anything from the convenience of their doo '
   extra:
     - name: 'og:type'
