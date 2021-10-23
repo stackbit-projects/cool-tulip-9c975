@@ -160,7 +160,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: 'ZipShip: Phone only shipping'
-  description: 'We enable anyone to ship anything from the convenience of their '
+  description: 'We bring all shipping supplies and '
   extra:
     - name: 'og:type'
       value: website
