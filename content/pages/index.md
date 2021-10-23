@@ -147,7 +147,7 @@ sections:
       Ship anything today!
     actions:
       - label: Ship
-        url: /thank-you
+        url: 'https://forms.gle/ChiCf33RfJXrXYu76'
         style: primary
     actions_width: fourty
     align: center
