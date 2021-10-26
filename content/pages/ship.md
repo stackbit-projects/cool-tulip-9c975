@@ -42,7 +42,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     section_id: Shipping Requests
-    title: Shipping Instructions
+    title: Start Shipping
 seo:
   title: ''
   description: ''
