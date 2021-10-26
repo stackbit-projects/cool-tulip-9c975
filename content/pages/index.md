@@ -24,7 +24,6 @@ sections:
     actions: []
     grid_items:
       - title: 'Step 1: Take Photo of Item'
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
