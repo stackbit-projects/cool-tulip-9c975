@@ -114,7 +114,7 @@ sections:
           from your doorstep.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /faq
             style: link
             has_icon: true
             icon: arrow-right
