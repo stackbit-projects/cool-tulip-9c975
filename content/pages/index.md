@@ -72,7 +72,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/package(2).png
-      - title: lorem-ipsum
+      - title: Request Pickup
         subtitle: lorem-ipsum
         title_align: center
         content: >-
