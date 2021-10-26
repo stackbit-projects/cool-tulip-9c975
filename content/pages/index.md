@@ -52,17 +52,9 @@ sections:
         image_has_padding: false
       - title: 'Step 3: We package and ship from your door'
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We package your item securely, attach a shipping label and transport
+          your package to your carrier.
         content_align: left
         actions: []
         actions_align: left
