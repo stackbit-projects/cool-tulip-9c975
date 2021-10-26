@@ -22,14 +22,6 @@ sections:
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions:
-      - label: Email
-        url: 'mailto: orders@getzipship.com'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
       - label: Text Message
         url: 'sms:14155709666'
         style: secondary
