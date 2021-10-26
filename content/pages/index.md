@@ -6,7 +6,7 @@ sections:
     subtitle: The easiest way to ship anything.
     actions:
       - label: 415-570-9666
-        url: Ship Now
+        url: /
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
