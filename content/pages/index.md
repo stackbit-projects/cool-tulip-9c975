@@ -177,7 +177,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: 'ZipShip: Shipping from your door'
+  title: 'ZipShip: Shipping From Your Doorstep'
   description: >-
     We bring all shipping supplies. Currently offering service in : San
     Francisco, CA.
