@@ -74,7 +74,7 @@ sections:
         image: /images/package(2).png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
