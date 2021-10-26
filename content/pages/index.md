@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Text Message
-        url: '#'
+        url: 'sms:'
         style: link
         has_icon: false
         icon: arrow-left
