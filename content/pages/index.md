@@ -5,7 +5,7 @@ sections:
     title: Shipping now from your doorstep.
     subtitle: The easiest way to ship anything.
     actions:
-      - label: 415-570-9666
+      - label: Ship Now
         url: /
         style: primary
         has_icon: true
