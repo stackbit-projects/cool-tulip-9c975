@@ -4,11 +4,7 @@ sections:
   - type: hero_section
     title: Shipping now from your doorstep.
     subtitle: The easiest way to ship anything.
-    actions:
-      - label: Ship Now
-        url: /
-        style: primary
-        has_icon: true
+    actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
