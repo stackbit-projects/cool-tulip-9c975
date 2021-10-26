@@ -46,7 +46,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: submit
         image_position: left
         image_width: fifty
         image_align: left
