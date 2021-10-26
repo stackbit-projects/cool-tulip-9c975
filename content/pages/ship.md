@@ -7,7 +7,7 @@ sections:
       - title: Request Pickup via Text Message
         title_align: left
         content: |
-          (415) 570-9666
+          ## (415) 570-9666
         content_align: left
         actions: []
         actions_align: left
