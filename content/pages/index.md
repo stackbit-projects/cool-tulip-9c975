@@ -38,7 +38,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/icon-1.svg
-      - title: lorem-ipsum
+      - title: 'Step 2: Su'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
