@@ -50,7 +50,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/icon-1.svg
       - title: 'Step 3: We package and ship from your door'
         title_align: left
         content: >-
