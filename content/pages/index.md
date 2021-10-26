@@ -6,7 +6,7 @@ sections:
     subtitle: The easiest way to ship anything.
     actions:
       - label: Ship
-        url: 'https://forms.gle/TAysEKCQ9nFtNP3L6'
+        url: 'sms:'
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
