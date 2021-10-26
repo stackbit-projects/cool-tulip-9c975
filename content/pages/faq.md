@@ -53,7 +53,7 @@ sections:
         image_has_padding: false
         subtitle: >-
           If your package is lost or damaged in transit, we will reimburse you
-          for the declared value and the postage paid.
+          for the declared value, postage paid and service fee.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
