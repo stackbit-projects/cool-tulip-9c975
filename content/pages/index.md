@@ -40,17 +40,8 @@ sections:
         image: /images/icon-1.svg
       - title: 'Step 2: Submit Shipping Request'
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Submit a shipping request via email, text message or phone call.
         content_align: left
         actions: []
         actions_align: left
