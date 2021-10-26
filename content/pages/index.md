@@ -72,24 +72,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/package(2).png
-      - title: Request Pickup
-        subtitle: lorem-ipsum
-        title_align: center
-        content: |
-          Text For Pickup: (415) 570-9666
-
-
-
-          Service Offered From: 10:00 AM to 4:00 PM
-        content_align: center
-        actions: []
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
