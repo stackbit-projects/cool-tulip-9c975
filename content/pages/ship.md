@@ -1,5 +1,5 @@
 ---
-title: Limited
+title: Limited Access
 sections:
   - section_id: lorem-ipsum
     title: Start Shipping
