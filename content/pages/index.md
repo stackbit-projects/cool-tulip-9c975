@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Text Message
-        url: 'sms:415'
+        url: 'sms:14155709666'
         style: link
         has_icon: false
         icon: arrow-left
