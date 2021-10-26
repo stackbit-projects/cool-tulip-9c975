@@ -5,7 +5,7 @@ sections:
     title: Shipping now from your doorstep.
     subtitle: The easiest way to ship anything.
     actions:
-      - label: Ship
+      - label: Ship Now
         url: 'sms:14155709666'
         style: primary
     image_alt: Hero section placeholder image
