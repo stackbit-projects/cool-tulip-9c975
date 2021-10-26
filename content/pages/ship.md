@@ -3,17 +3,8 @@ title: 'Limited Access: San Francisco'
 sections:
   - section_id: lorem-ipsum
     title: Start Shipping
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      415-570-9666
     actions:
       - label: lorem-ipsum
         url: '#'
