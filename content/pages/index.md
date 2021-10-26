@@ -24,7 +24,7 @@ sections:
     actions:
       - label: Ship Anything
         url: 'sms:14155709666'
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
