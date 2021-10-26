@@ -21,7 +21,7 @@ sections:
         title_align: left
         content: |
           dispatch@getzipship.com
-        content_align: center
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
