@@ -152,49 +152,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - type: grid_section
-    title: How it works
-    grid_items:
-      - title: '#1 Setup Pick-Up'
-        title_align: left
-        content: >
-          Just tell us what you're shipping, the delivery address and your
-          address. We'll take care of the rest.
-        content_align: left
-        image: images/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: '#2 Answer Door'
-        title_align: left
-        content: >
-          Our shipping expert will arrive on time and with all necessary
-          supplies. After confirming your item's dimension and weight, you're
-          all set.
-        content_align: left
-        image: images/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: '#3 Track Your Package'
-        title_align: left
-        content: >
-          We offer robust notification system to inform you of your package's
-          progress.
-        content_align: left
-        image: images/icon-4.svg
-        image_alt: Section item 4 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    align: center
-    background_color: none
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
