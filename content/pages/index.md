@@ -107,7 +107,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: No B.Y.O.B.
+      - title: Ditch B.Y.O.B.
         content: >
           We don't believe you should have to bring your own box or any other
           shipping supplies. That's why we provide everything you need to ship
