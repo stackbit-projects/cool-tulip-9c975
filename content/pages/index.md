@@ -161,8 +161,8 @@ sections:
 seo:
   title: 'ZipShip: Shipping from your door'
   description: >-
-    We bring all shipping supplies. Service currently offered in San Francisco
-    and Palo Alto only.
+    We bring all shipping supplies. Currently offering service in : San
+    Francisco, CA.
   extra:
     - name: 'og:type'
       value: website
