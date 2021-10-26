@@ -19,17 +19,8 @@ sections:
         image_has_padding: false
       - title: Request Pickup via Email
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          ## dispatch@getzipship.com
         content_align: left
         actions: []
         actions_align: left
