@@ -22,7 +22,7 @@ sections:
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions:
-      - label: Shi
+      - label: 'Ship '
         url: '#'
         style: link
         has_icon: false
