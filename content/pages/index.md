@@ -130,7 +130,7 @@ sections:
           postage.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /faq
             style: link
             has_icon: true
             icon: arrow-right
