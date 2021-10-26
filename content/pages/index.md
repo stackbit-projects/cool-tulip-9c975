@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 60
   - section_id: lorem-ipsum
     title: How It Works
-    subtitle: 'Currently Offering Service in: San Francisco'
+    subtitle: 'Currently Offering Service in: San Francisco, California'
     actions: []
     grid_items:
       - title: 'Step 1: Take Photo of Item'
