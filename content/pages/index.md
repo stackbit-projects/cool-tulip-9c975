@@ -53,7 +53,6 @@ sections:
         image_has_padding: false
         image: /images/icon-1.svg
       - title: 'Step 3: We package and ship from your door'
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
