@@ -22,7 +22,7 @@ sections:
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions:
-      - label: e
+      - label: Email
         url: '#'
         style: link
         has_icon: false
