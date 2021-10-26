@@ -6,7 +6,7 @@ sections:
     subtitle: The easiest way to ship anything.
     actions:
       - label: Ship Now
-        url: 'sms:1-408-555-1212'
+        url: 'sms:1-415-555-1212'
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
