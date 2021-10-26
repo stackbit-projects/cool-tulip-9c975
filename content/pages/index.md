@@ -23,7 +23,7 @@ sections:
     subtitle: 'Currently Offering Service in: San Francisco'
     actions: []
     grid_items:
-      - title: 'Step 1: Measure Item'
+      - title: 'Step 1: Take Photo of Item'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
