@@ -23,7 +23,7 @@ sections:
     subtitle: 'Currently Offering Service in: San Francisco'
     actions: []
     grid_items:
-      - title: 'Step 1:'
+      - title: 'Step 1: Measure Item'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
