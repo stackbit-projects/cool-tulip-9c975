@@ -22,7 +22,7 @@ sections:
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions:
-      - label: Text Message
+      - label: Ship Anything
         url: 'sms:14155709666'
         style: secondary
         has_icon: false
