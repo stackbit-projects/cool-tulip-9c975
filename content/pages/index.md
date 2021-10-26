@@ -23,7 +23,7 @@ sections:
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions:
       - label: Email
-        url: 'mailto:or'
+        url: 'mailto: orders@getzipship.com'
         style: link
         has_icon: false
         icon: arrow-left
