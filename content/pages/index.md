@@ -27,7 +27,7 @@ sections:
         title_align: left
         content: >
           Please include a common household item for scale. Scale items include
-          coins, water bottle or banana.
+          currency, water bottle or banana.
         content_align: left
         actions: []
         actions_align: left
