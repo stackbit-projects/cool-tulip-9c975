@@ -4,7 +4,7 @@ sections:
   - subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: Text Message
+      - title: Request Pickup via Text Message
         title_align: left
         content: |
           (415) 570-9666
