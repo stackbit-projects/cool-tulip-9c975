@@ -61,7 +61,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: box
+        image_alt: package
         image_position: left
         image_width: fifty
         image_align: left
