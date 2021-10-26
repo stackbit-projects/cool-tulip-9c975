@@ -32,7 +32,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: banana
         image_position: left
         image_width: fifty
         image_align: left
