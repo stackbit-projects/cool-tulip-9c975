@@ -77,6 +77,10 @@ sections:
         title_align: center
         content: |
           Text For Pickup: (415) 570-9666
+
+
+
+          Service Offered From: 10:00 AM to 4:00 PM
         content_align: center
         actions: []
         actions_align: center
