@@ -18,15 +18,7 @@ sections:
   - section_id: How It Works
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
-    actions:
-      - label: Ship Anything
-        url: 'sms:14155709666'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
+    actions: []
     grid_items:
       - title: 'Step 1: Take Photo of Item'
         title_align: left
