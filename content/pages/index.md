@@ -15,7 +15,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - section_id: lorem-ipsum
+  - section_id: Request Pickup
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions:
