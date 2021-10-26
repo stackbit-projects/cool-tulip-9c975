@@ -179,7 +179,7 @@ sections:
 seo:
   title: 'ZipShip: Shipping From Your Doorstep'
   description: >-
-    We bring all shipping supplies. Currently offering service in : San
+    We bring all necessary shipping supplies Currently offering service in : San
     Francisco, CA.
   extra:
     - name: 'og:type'
