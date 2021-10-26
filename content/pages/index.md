@@ -174,7 +174,7 @@ sections:
       Ship anything today!
     actions:
       - label: Ship
-        url: 'https://forms.gle/ChiCf33RfJXrXYu76'
+        url: 'sms:14155709666'
         style: primary
     actions_width: fourty
     align: center
