@@ -37,6 +37,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
+        image: /images/banana.png
       - title: 'Step 2: Submit Shipping Request'
         title_align: left
         content: |
