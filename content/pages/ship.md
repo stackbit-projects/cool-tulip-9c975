@@ -20,7 +20,7 @@ sections:
       - title: Request Pickup via Email
         title_align: left
         content: |
-          > dispatch@getzipship.com
+          <mailto:disptach@getzipship.com>
         content_align: left
         actions: []
         actions_align: left
