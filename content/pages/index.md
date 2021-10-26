@@ -8,6 +8,7 @@ sections:
       - label: 415-570-9666
         url: /
         style: primary
+        has_icon: true
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
