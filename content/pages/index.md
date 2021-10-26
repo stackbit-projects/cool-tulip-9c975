@@ -98,7 +98,7 @@ sections:
           ZipShip enables a phone only shipping experience.
         actions:
           - label: Learn More
-            url: /fa
+            url: /faq
             style: link
             has_icon: true
             icon: arrow-right
