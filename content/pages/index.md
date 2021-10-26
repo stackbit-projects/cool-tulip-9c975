@@ -39,7 +39,6 @@ sections:
         image_has_padding: false
         image: /images/icon-1.svg
       - title: 'Step 2: Submit Shipping Request'
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
