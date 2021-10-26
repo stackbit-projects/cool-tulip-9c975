@@ -6,17 +6,8 @@ sections:
     grid_items:
       - title: Text Message
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          (415) 570-9666
         content_align: left
         actions: []
         actions_align: left
