@@ -25,17 +25,9 @@ sections:
     grid_items:
       - title: 'Step 1: Take Photo of Item'
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Please include a common household item for scale. Scale items include
+          coins, water bottle or banana.
         content_align: left
         actions: []
         actions_align: left
