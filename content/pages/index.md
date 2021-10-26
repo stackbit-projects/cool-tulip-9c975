@@ -32,7 +32,7 @@ sections:
         no_follow: false
       - label: Text Message
         url: 'sms:14155709666'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
