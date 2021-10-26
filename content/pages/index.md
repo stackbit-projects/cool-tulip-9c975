@@ -17,6 +17,8 @@ sections:
     background_image_opacity: 60
     content: |
       ### Text to Ship: 415-570-9666
+
+      We ship daily: 10:00AM to 4:00PM
   - section_id: How It Works
     title: How It Works
     subtitle: 'Currently Offering Service in: San Francisco, California'
