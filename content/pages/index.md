@@ -87,7 +87,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: Request Pickup
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
