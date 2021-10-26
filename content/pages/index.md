@@ -37,7 +37,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: left
-        image_width: fifty
+        image_width: twenty-five
         image_align: left
         image_has_padding: false
       - title: 'Step 2: Submit Shipping Request'
