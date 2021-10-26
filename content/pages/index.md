@@ -30,6 +30,14 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     grid_items:
       - title: 'Step 1: Take Photo of Item'
         title_align: left
