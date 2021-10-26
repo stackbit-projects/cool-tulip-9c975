@@ -6,7 +6,7 @@ sections:
     subtitle: The easiest way to ship anything.
     actions:
       - label: Ship
-        url: 'sms:'
+        url: 'sms:14155709666'
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
