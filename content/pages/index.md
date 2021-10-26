@@ -75,17 +75,8 @@ sections:
       - title: Request Pickup
         subtitle: lorem-ipsum
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Text For Pickup: (415) 570-9666
         content_align: center
         actions: []
         actions_align: center
