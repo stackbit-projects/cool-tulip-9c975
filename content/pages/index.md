@@ -19,7 +19,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: How It Works
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
