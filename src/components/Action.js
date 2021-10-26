@@ -31,7 +31,7 @@ export default class Action extends React.Component {
         }
 
         return (
-            <Link href={sms://+14155709666?&body} {...attrs} className={classes}>
+            <Link href={sms://+14155709666?&body=} {...attrs} className={classes}>
                 {(hasIcon && icon) ? (
                     <React.Fragment>
                         <Icon icon={icon} />
