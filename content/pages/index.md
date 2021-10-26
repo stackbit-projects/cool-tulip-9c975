@@ -26,6 +26,9 @@ sections:
       - title: 'Step 1: Take Photo of Item'
         title_align: left
         content: >
+          ![](/images/banana.png)
+
+
           Please include a common household item for scale. Scale items include
           currency, water bottle or banana.
         content_align: left
