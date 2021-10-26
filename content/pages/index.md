@@ -5,7 +5,7 @@ sections:
     title: Shipping now from your doorstep.
     subtitle: The easiest way to ship anything.
     actions:
-      - label: Ship Package
+      - label: Ship
         url: 'https://forms.gle/TAysEKCQ9nFtNP3L6'
         style: primary
     image_alt: Hero section placeholder image
