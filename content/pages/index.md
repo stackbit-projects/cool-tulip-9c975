@@ -155,7 +155,7 @@ sections:
   - type: features_section
     features:
       - title: “A modern shipping experience.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: 'Nat Kinkle, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
