@@ -152,7 +152,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Give VIP shipping ($30 value), get VIP shipping ($60 value). [**Learn More**](/pricing/)\n",
+        "anncmnt_content": "Give VIP shipping ($30 value), get VIP shipping ($30 value). [**Learn More**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
