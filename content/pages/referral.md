@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Referral Program
 seo:
   title: ''
   description: ''
