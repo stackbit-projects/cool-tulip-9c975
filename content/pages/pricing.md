@@ -7,9 +7,20 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+##### Pickup
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Anywhere in our service area within an hour.
 
-- Lorem ipsum
-- dolor sit amet
+$8.00
+
+##### Packaging
+
+Boxes, tape, packing material included.
+
+$10.00
+
+##### Postage
+
+We offer both USPS and UPS. Both are covered by our $100 shipping insurance.
+
+Varies on carrier, dimensions, weight and service type. To calculate what your rate would check the rates for USPS [here](https://postcalc.usps.com/).
