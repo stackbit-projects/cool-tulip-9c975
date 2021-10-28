@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Pricing
 seo:
   title: ''
   description: ''
