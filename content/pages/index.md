@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shipping now from your doorstep.
-    subtitle: $
+    subtitle: $8
     actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
