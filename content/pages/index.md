@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shipping now from your doorstep.
-    subtitle: $8 + Postage
+    subtitle: $15 + Postage
     actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
