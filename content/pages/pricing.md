@@ -23,4 +23,4 @@ $10.00
 
 We offer both USPS and UPS. Both are covered by our $100 shipping insurance.
 
-Varies on carrier, dimensions, weight and service type. To calculate what your rate would check the rates for USPS [here](https://postcalc.usps.com/).
+Varies on carrier, dimensions, weight and service type. To calculate what your rate would be for the USPS, click [here](https://postcalc.usps.com/).
