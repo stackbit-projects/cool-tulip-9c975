@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shipping now from your doorstep.
-    subtitle: The easiest way to ship anything.
+    subtitle: $
     actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
