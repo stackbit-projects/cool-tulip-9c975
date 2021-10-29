@@ -1,5 +1,5 @@
 ---
-title: P
+title: Pricing
 sections: []
 seo:
   title: ''
