@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Pricing
     title: Pricing
     subtitle: All Inclusive
     content: |
