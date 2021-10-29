@@ -7,7 +7,7 @@ sections:
     actions: []
     grid_items:
       - title: Packaging
-        subtitle: $10
+        subtitle: 'Box, pac'
         title_align: left
         content: |
           $10
