@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - section_id: lorem-ipsum
     title: Pricing
-    subtitle: lorem-ipsum
+    subtitle: All Inclusive
     content: |
       # $15
 
