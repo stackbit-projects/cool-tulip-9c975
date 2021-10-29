@@ -6,7 +6,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Packaging
         subtitle: lorem-ipsum
         title_align: left
         content: >-
