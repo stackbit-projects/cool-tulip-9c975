@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - section_id: lorem-ipsum
+  - section_id: $8
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
