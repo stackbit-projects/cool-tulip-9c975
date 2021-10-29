@@ -22,7 +22,7 @@ sections:
       - subtitle: 1 Hour Pick Up
         title_align: left
         content: |
-          Includes same day drop-off at access point.
+          $8
         content_align: left
         actions: []
         actions_align: left
