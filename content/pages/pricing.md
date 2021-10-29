@@ -3,7 +3,6 @@ title: Pricing
 sections:
   - section_id: Pricing
     title: $8 + Postage
-    subtitle: Our pricing is straightforward.
     actions: []
     grid_items:
       - title: Packaging
