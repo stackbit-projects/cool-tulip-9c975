@@ -178,23 +178,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: Ready to get started?
-    content: |
-      Ship anything today!
-    actions:
-      - label: Ship
-        url: 'sms:14155709666'
-        style: primary
-    actions_width: fourty
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/background.svg
-    background_image_position: center top
-    background_image_size: cover
-    background_image_opacity: 10
 seo:
   title: 'ZipShip: Shipping From Your Door'
   description: >-
