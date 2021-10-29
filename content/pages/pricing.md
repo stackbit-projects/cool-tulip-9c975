@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - section_id: Pricing
     title: $8 + Postage
-    subtitle: lorem-ipsum
+    subtitle: Bring Your Own Box
     actions: []
     grid_items:
       - title: Packaging
