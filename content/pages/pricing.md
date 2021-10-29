@@ -35,7 +35,6 @@ sections:
         image_align: left
         image_has_padding: true
         title: Pick Up
-        image: /images/pick-up-truck.png
       - title: Postage
         subtitle: We offer both USPS and UPS shipping services.
         title_align: left
