@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - section_id: Pricing
     title: $8 + Postage
-    subtitle: Bring Your Own Box
+    subtitle: 'Our pricing is '
     actions: []
     grid_items:
       - title: Packaging
