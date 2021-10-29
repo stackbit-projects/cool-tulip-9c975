@@ -4,17 +4,10 @@ sections:
   - section_id: lorem-ipsum
     title: Pricing
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      # $15
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Includes packaging, pickup and carrier drop off.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
