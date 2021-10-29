@@ -33,7 +33,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         title: Pick Up
         image: /images/pick-up-truck.png
       - title: Postage
