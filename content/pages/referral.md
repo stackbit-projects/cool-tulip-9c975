@@ -7,4 +7,10 @@ seo:
   extra: []
 layout: page
 ---
-> Give Admiral shipping, get a month of Admiral shipping.
+Very Important Person Shipping is exactly that. Our VIP members enjoy:
+
+*   Waived pick up fee
+
+*   30 minute pick up
+
+*   Free first class stamped envelopes for personal use
