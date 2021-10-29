@@ -36,7 +36,7 @@ sections:
         image_has_padding: false
         title: Pick Up
       - title: Postage
-        subtitle: We offer both USPS and UPS
+        subtitle: We offer both USPS and UPS shipping services.
         title_align: left
         content: |
           Pricing varies on carrier, dimensions, weight and service.
