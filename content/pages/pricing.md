@@ -19,7 +19,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - subtitle: '1 hour pick up. '
+      - subtitle: 1 hour pick up.
         title_align: left
         content: |
           $8
