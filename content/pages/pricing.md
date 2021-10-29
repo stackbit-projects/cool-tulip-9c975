@@ -6,7 +6,7 @@ sections:
     actions: []
     grid_items:
       - title: Packaging
-        subtitle: 'Boxes, bubble wrap and tape.'
+        subtitle: 'Boxes, envelopes,  bubble wrap and tape.'
         title_align: left
         content: |
           $10
