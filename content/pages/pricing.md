@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - section_id: Pricing
-    title: lorem-ipsum
+    title: $8
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
