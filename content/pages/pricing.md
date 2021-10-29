@@ -34,7 +34,7 @@ sections:
         image_has_padding: false
         title: Pick Up
       - title: Postage
-        subtitle: lorem-ipsum
+        subtitle: We offer both USPS and UPS.
         title_align: left
         content: >-
           ## Lorem ipsum
