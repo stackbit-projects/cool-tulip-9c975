@@ -33,7 +33,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Pick Up
-      - title: lorem-ipsum
+      - title: Postage
         subtitle: lorem-ipsum
         title_align: left
         content: >-
