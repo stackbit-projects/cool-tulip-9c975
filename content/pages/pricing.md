@@ -19,8 +19,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Pick Up
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
