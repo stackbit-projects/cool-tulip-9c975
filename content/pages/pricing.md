@@ -7,7 +7,7 @@ sections:
     actions: []
     grid_items:
       - title: Packaging
-        subtitle: lorem-ipsum
+        subtitle: 'Box, tape'
         title_align: left
         content: |
           $10
