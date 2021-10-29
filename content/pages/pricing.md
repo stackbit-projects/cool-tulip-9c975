@@ -19,7 +19,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - subtitle: lorem-ipsum
+      - subtitle: 1 Hour Pick Up
         title_align: left
         content: >-
           ## Lorem ipsum
