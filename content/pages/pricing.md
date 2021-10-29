@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - section_id: Pricing
-    title: $8
+    title: $8 + Postage
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
