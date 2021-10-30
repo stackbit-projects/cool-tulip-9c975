@@ -5,15 +5,13 @@ sections:
     title: Pricing
     subtitle: All Inclusive
     content: |
-      # **$15**
+      # **$15 + Postage**
 
       Includes:
 
       *   Packaging (Boxes, envelopes, packaging materials and tape)
 
-
       *   Pick Up (One hour pick up)
-
 
       *   Drop Off (Same day package drop off)
     actions: []
