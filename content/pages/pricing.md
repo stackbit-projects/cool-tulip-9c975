@@ -5,13 +5,20 @@ sections:
     title: Pricing
     subtitle: All Inclusive
     content: |
-      # $15
+      # **$15**
 
-      Includes packaging, pickup and carrier drop off.
+      Includes:
+
+      *   Packaging (Boxes, envelopes, packaging materials and tape)
+
+
+      *   Pick Up (One hour pick up)
+
+
+      *   Drop Off (Same day package drop off)
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      
+    video_embed_html: ''
     media_position: top
     media_width: fifty
     align: left
