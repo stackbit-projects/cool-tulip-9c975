@@ -107,15 +107,6 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "#",
                 "style": "link",
