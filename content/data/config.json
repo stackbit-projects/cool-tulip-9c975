@@ -38,11 +38,6 @@
                 "style": "link"
             },
             {
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "secondary"
-            },
-            {
                 "label": "Ship Now",
                 "url": "/ship",
                 "style": "primary"
