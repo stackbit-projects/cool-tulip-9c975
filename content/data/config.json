@@ -43,7 +43,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Ship Anything",
+                "label": "Ship Now",
                 "url": "/ship",
                 "style": "primary"
             }
