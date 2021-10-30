@@ -116,6 +116,16 @@
                 "new_window": true
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "instagram",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "YouTube",
                 "url": "https://www.youtube.com/",
                 "style": "link",
@@ -132,16 +142,6 @@
                 "icon": "vimeo",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "instagram",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "content": "© ZipShip. All rights reserved."
