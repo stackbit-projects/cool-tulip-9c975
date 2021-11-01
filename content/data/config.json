@@ -44,7 +44,7 @@
             },
             {
                 "label": "Refer",
-                "url": "#",
+                "url": "/referral",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
