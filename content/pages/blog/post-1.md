@@ -41,15 +41,13 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and may have some bugs software-wise. With ZipShip, we enable a door to door shipping experience.
+Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and may have some bugs.
 
 Here's how ZipShip works.
 
-1.  Setup your appointment and let us know what you're shipping.
+1.  Setup your pickup.
 
-
-2.  Answer your door at your appointed time. Your shipping expert will package your item and/or apply your shipping label.
-
+2.  Answer your door at your appointed time.
 
 3.  Track your package
 
