@@ -41,15 +41,16 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Welcome to the launch of SF Shipping. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and may have some bugs software-wise. With SF Shipping, we enable a door to door shipping experience.
+Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and may have some bugs software-wise. With ZipShip, we enable a door to door shipping experience.
 
-Here's how SF Shipping works.
+Here's how ZipShip works.
 
 1.  Setup your appointment and let us know what you're shipping.
 
 
 2.  Answer your door at your appointed time. Your shipping expert will package your item and/or apply your shipping label.
 
-3\. Track your package
+
+3.  Track your package
 
 We are currently seeking feedback on our service and appreciate all feedback regarding your service experience.
