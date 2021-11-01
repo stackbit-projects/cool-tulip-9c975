@@ -6,7 +6,7 @@ categories:
   - content/data/categories/news.yaml
 tags: []
 excerpt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: Starting shipping service.
 image_position: right
 seo:
   title: ''
