@@ -23,11 +23,11 @@ Welcome to the launch of ZipShip. We are on a mission to make shipping accessibl
 
 Here's how ZipShip works:
 
-1.  Setup your pickup.
+1.  Take photo of your item (unless you know the exact dimensions)
 
-2.  Answer your door.
+2.  Submit pickup request.
 
-3.  Track your package.
+3.  Answer your doorbell.
 
 We bring all shipping supplies and drop off your package at the carrier access point.
 
