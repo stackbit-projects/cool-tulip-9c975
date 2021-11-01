@@ -1,5 +1,5 @@
 ---
-title: SF Shipping Service Commencement
+title: Sip Ship Service Commencement
 subtitle: Service launch.
 date: '2020-11-04'
 author: content/data/team/dianne-ameter.yaml
