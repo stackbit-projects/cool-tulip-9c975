@@ -7,7 +7,7 @@ categories:
   - content/data/categories/tips.yaml
 thumb_image: images/post-1.jpg
 thumb_image_alt: Post 1 placeholder image
-image: images/post-1.jpg
+image: /images/bench-accounting-MGaFENpDCsw-unsplash.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
