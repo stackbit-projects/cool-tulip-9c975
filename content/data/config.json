@@ -13,6 +13,16 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
+                "label": "Refer",
+                "url": "/referral",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
@@ -41,16 +51,6 @@
                 "label": "Ship Now",
                 "url": "/ship",
                 "style": "primary"
-            },
-            {
-                "label": "Refer",
-                "url": "/referral",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "logo": "/images/ZipShip.png"
