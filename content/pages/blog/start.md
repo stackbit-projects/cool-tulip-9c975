@@ -16,6 +16,7 @@ seo:
   extra: []
 layout: post
 author: content/data/team/dianne-ameter.yaml
+image: /images/pexels-ketut-subiyanto-4246120.jpg
 ---
 ## Lorem ipsum
 
