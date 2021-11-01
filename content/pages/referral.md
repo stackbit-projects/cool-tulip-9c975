@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - section_id: VIP Shi
+  - section_id: VIP Shipping
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
