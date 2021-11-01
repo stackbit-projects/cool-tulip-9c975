@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: VIP Shipping
-    title: lorem-ipsum
+    title: Vi
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
