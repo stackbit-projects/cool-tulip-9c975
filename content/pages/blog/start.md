@@ -1,5 +1,5 @@
 ---
-title: Starting Li
+title: 'Starting Limited Service in San Francisco, CA'
 subtitle: lorem-ipsum
 date: '2021-11-01'
 categories: []
