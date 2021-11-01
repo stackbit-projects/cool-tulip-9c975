@@ -37,7 +37,7 @@ seo:
       value: images/post-1.jpg
       relativeUrl: true
 layout: post
-excerpt: Limited San Francisco
+excerpt: 'Commencing limited service test '
 ---
 Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and may have some bugs.
 
