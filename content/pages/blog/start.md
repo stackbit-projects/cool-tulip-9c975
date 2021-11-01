@@ -17,6 +17,7 @@ layout: post
 author: content/data/team/dianne-ameter.yaml
 image: /images/pexels-ketut-subiyanto-4246120.jpg
 thumb_image: /images/pexels-ketut-subiyanto-4246120.jpg
+thumb_image_alt: Starting shipping service.
 ---
 ## Lorem ipsum
 
