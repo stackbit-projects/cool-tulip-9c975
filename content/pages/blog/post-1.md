@@ -6,7 +6,7 @@ author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tips.yaml
 thumb_image: /images/bench-accounting-MGaFENpDCsw-unsplash.jpg
-thumb_image_alt: Post 1 placeholder image
+thumb_image_alt: Person preparing a box for shipment.
 image: /images/bench-accounting-MGaFENpDCsw-unsplash.jpg
 image_position: right
 seo:
