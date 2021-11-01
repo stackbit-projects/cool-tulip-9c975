@@ -1,5 +1,5 @@
 ---
-title: Zip Ship Limited Test Ser
+title: Zip Ship Limited Service Test
 subtitle: Service launch.
 date: '2020-11-04'
 author: content/data/team/dianne-ameter.yaml
