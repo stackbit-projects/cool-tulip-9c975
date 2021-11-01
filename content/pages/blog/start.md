@@ -29,4 +29,9 @@ Here's how ZipShip works.
 
 3.  Track your package.
 
+We bring all shipping supplies, postage and drop off your package at the carrier access point.
+
+Our service is available 10 AM to 4 PM daily. 
+
 We are currently seeking feedback on our service and appreciate all feedback regarding your service experience.
+
