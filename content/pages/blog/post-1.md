@@ -1,7 +1,7 @@
 ---
 title: Zip Ship Limited Service Test
 subtitle: 'Available in San Francisco, CA'
-date: '2020-11-04'
+date: '2021-11-04'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tips.yaml
