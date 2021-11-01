@@ -47,8 +47,8 @@ Here's how ZipShip works.
 
 1.  Setup your pickup.
 
-2.  Answer your door at your appointed time.
+2.  Answer your door.
 
-3.  Track your package
+3.  Track your package.
 
 We are currently seeking feedback on our service and appreciate all feedback regarding your service experience.
