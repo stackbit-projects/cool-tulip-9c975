@@ -21,7 +21,7 @@ thumb_image_alt: Starting shipping service.
 ---
 Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and offer service in the San Francisco, CA.
 
-Here's how ZipShip works.
+Here's how ZipShip works:
 
 1.  Setup your pickup.
 
