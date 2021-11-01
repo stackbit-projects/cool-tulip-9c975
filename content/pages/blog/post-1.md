@@ -5,7 +5,7 @@ date: '2021-11-04'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tips.yaml
-thumb_image: images/post-1.jpg
+thumb_image: /images/bench-accounting-MGaFENpDCsw-unsplash.jpg
 thumb_image_alt: Post 1 placeholder image
 image: /images/bench-accounting-MGaFENpDCsw-unsplash.jpg
 image_position: right
