@@ -37,6 +37,7 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: 'Commencing limited service test in San Francisco, California.'
+image_alt: 'Person packaging '
 ---
 Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and may have some bugs.
 
