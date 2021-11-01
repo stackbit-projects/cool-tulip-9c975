@@ -5,9 +5,6 @@ date: '2021-11-04'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tips.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/post-1.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/post-1.jpg
