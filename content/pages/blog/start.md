@@ -1,7 +1,7 @@
 ---
 title: Starting Limited Service
 subtitle: 'Available in San Francisco, CA'
-date: '2021-01-01'
+date: '2021-10-01'
 categories: []
 tags: []
 excerpt: lorem-ipsum
