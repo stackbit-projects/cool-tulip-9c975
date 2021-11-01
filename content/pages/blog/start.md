@@ -19,9 +19,14 @@ image: /images/pexels-ketut-subiyanto-4246120.jpg
 thumb_image: /images/pexels-ketut-subiyanto-4246120.jpg
 thumb_image_alt: Starting shipping service.
 ---
-## Lorem ipsum
+Welcome to the launch of ZipShip. We are on a mission to make shipping accessible to everyone. By offering a complete shipping service, we make shipping as easy as opening your door. We are currently operating an open beta and offer service in the San Francisco, CA.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Here's how ZipShip works.
 
-- Lorem ipsum
-- dolor sit amet
+1.  Setup your pickup.
+
+2.  Answer your door.
+
+3.  Track your package.
+
+We are currently seeking feedback on our service and appreciate all feedback regarding your service experience.
