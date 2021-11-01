@@ -6,7 +6,6 @@ categories:
   - content/data/categories/news.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: right
 seo:
