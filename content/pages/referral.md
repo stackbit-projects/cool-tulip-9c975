@@ -32,7 +32,7 @@ sections:
     actions: []
     grid_items:
       - title: How to get it?
-        subtitle: lorem-ipsum
+        subtitle: VIP status cannot be purchased or
         title_align: left
         content: >-
           ## Lorem ipsum
