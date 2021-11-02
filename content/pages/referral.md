@@ -4,17 +4,14 @@ sections:
   - section_id: VIP Shipping
     title: VIP Shipping
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      VIP Status at Zipship comes with the following benefits:
 
+      *   Waived service fee
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Priority pick-up
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Send unlimited letters (we provide envelopes and stamps)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
