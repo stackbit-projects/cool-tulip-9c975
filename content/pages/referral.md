@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - section_id: FAQ
-    title: FA
+    title: FAQ
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
