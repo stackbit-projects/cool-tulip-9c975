@@ -34,8 +34,6 @@ sections:
       - title: How do I become a VIP?
         subtitle: VIP status cannot be purchased. It can only be granted via referral.
         title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
