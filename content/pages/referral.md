@@ -46,17 +46,9 @@ sections:
       - title: How do referrals work?
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Upon sign-up you will receive a unique referral code which will allow
+          your friends and colleagues to 
         content_align: left
         actions: []
         actions_align: left
