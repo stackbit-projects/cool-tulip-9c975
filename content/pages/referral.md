@@ -31,7 +31,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: How do get it?
+      - title: How do I become a VIP?
         subtitle: VIP status cannot be purchased or
         title_align: left
         content: >-
