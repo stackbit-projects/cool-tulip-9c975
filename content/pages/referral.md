@@ -31,7 +31,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: How do
+      - title: How to get it?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
