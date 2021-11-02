@@ -32,7 +32,7 @@ sections:
     actions: []
     grid_items:
       - title: How do I become a VIP?
-        subtitle: VIP status cannot be purchased. It can only be granted vi
+        subtitle: VIP status cannot be purchased. It can only be granted via
         title_align: left
         content: >-
           ## Lorem ipsum
