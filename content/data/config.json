@@ -139,7 +139,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Give VIP shipping, get VIP shipping. [**Learn More**](/pricing/)\n",
+        "anncmnt_content": "Service available in San Francisco, CA.\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
