@@ -24,7 +24,7 @@ sections:
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions: []
     grid_items:
-      - title: 'Step 1: Take Photo of Item'
+      - title: 'Step 1: Request Pickup'
         title_align: left
         content: >
           Please include a common household item for scale. Scale items include
