@@ -54,9 +54,8 @@ sections:
         image_has_padding: false
         image: /images/file.png
       - title_align: left
-        content: >
-          We package your item securely, attach a shipping label and transport
-          your package to your carrier.
+        content: |
+          We accept all cards and mobile payments.
         content_align: left
         actions: []
         actions_align: left
