@@ -19,7 +19,7 @@
             },
             {
                 "label": "Learn More",
-                "url": "/pricing/",
+                "url": "/learn",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
