@@ -26,9 +26,8 @@ sections:
     grid_items:
       - title: 'Step 1: Request Pickup'
         title_align: left
-        content: >
-          Please include a common household item for scale. Scale items include
-          currency, water bottle or banana.
+        content: |
+          Request a private courier from any mobile phone-text message.
         content_align: left
         actions: []
         actions_align: left
