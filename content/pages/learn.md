@@ -2,7 +2,7 @@
 title: Learn More
 sections:
   - section_id: Learn More
-    title: lorem-ipsum
+    title: Learn More
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
