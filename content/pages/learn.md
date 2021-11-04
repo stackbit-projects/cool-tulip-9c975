@@ -1,7 +1,7 @@
 ---
 title: Learn More
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Learn More
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
