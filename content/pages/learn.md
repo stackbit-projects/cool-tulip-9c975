@@ -9,17 +9,9 @@ sections:
       - title: Request Pick Up
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Request a courier by telling Zipship where you are. Text us your
+          address to get started.
         content_align: left
         actions: []
         actions_align: left
