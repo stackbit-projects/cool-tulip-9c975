@@ -52,8 +52,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/file.png
-      - title: Hassle Free Payment
-        title_align: left
+      - title_align: left
         content: >
           We package your item securely, attach a shipping label and transport
           your package to your carrier.
