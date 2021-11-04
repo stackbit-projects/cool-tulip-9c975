@@ -52,7 +52,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/file.png
-      - title: 'Step 3: We package and ship from your door'
+      - title: Hassle Free Payment
         title_align: left
         content: >
           We package your item securely, attach a shipping label and transport
