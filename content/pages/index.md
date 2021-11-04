@@ -38,7 +38,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/banana.png
-      - title: Ship with
+      - title: 'Ship with ease and conviencne '
         title_align: left
         content: |
           Submit a shipping request via email, text message or phone call.
