@@ -24,7 +24,7 @@ sections:
     subtitle: 'Currently Offering Service in: San Francisco, California'
     actions: []
     grid_items:
-      - title: 'Step 1: Request Pickup'
+      - title: Request Pickup
         title_align: left
         content: |
           Request a private courier from any mobile phone-text message.
