@@ -40,8 +40,9 @@ sections:
         image: /images/banana.png
       - title: 'Ship with ease & convenience '
         title_align: left
-        content: |
-          Submit a shipping request via email, text message or phone call.
+        content: >
+          Within minutes your private courier will arrive with all packaging,
+          tape and postage label at your doorstep.
         content_align: left
         actions: []
         actions_align: left
