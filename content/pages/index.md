@@ -65,7 +65,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/package(2).png
+        image: /images/contactless.png
         title: Hassle free payment
     grid_cols: three
     grid_gap_vert: small
