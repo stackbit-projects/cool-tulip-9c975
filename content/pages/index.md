@@ -37,6 +37,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/location.png
       - title: 'Ship with ease & convenience '
         title_align: left
         content: >
