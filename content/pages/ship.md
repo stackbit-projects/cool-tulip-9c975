@@ -33,7 +33,7 @@ sections:
       - title: Request Pickup via WhatsApp
         title_align: left
         content: |
-          [WhatsApp](https://wa.me/15551234567)
+          ![](/images/whatsapp.png)
         content_align: left
         actions: []
         actions_align: left
