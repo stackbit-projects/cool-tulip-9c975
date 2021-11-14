@@ -37,7 +37,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/banana.png
+        image: /images/bx-archive-out.svg
       - title: 'Ship with ease & convenience '
         title_align: left
         content: >
