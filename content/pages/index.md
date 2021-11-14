@@ -52,6 +52,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/door-to-door.png
       - title_align: left
         content: |
           We accept all cards and mobile payments.
