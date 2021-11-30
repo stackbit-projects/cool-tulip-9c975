@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: Answers to common questions about SF Shipping
+    subtitle: Answers to common questions about ZipShip
     align: center
     padding_top: large
     padding_bottom: none
