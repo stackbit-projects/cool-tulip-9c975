@@ -19,8 +19,8 @@ sections:
           tape and label.
       - title: What services do you ship with?
         content: >
-          We offer shipping via United States Postal Services (USPS) and United
-          Parcel Service (UPS).
+          We offer shipping via United States Postal Services (USPS), United
+          Parcel Service (UPS) and Federal Express (FedEx).
       - title: What do you charge?
         content: |
           Please check our pricing page.
