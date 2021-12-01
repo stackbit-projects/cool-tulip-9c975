@@ -140,5 +140,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://getzipship.com"
+    "domain": "https://getzipship.com",
+    "favicon": "/images/box.png"
 }
